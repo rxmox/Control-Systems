@@ -1,0 +1,13 @@
+Steps:
+-Opned Anaconda Promt
+
+-Activate the enel441 virtual environment
+>>conda activate enel441
+
+-Git clone if required
+>>git clone <link>
+
+-Launch jupyter notebooks
+>>jupyter notebook
+
+-open.ipynb files as you would like
